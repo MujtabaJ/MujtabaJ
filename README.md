@@ -96,16 +96,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MujtabaJ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6da7ec&icon_color=b48efa&include_all_commits=true&count_private=true" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaJ&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6da7ec" alt="Top languages" height="170">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MujtabaJ&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b48efa&fire=e87ba4&currStreakLabel=6da7ec" alt="Contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MujtabaJ&bg_color=0d1117&color=c9d1d9&line=6da7ec&point=e87ba4&area=true&area_color=3987e5&hide_border=true" alt="Contribution activity graph" width="100%">
 </p>
 
 ---
